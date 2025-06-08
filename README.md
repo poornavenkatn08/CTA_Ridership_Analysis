@@ -41,4 +41,4 @@ CTA-Ridership-Analysis/
 ## 👨‍💻 Author
 
 **Poorna Venkat Neelakanatam**  
-[LinkedIn](https://www.linkedin.com/in/pneelakantam) | poornavenkat.n@gmail.com
+[LinkedIn](https://www.linkedin.com/in/pneelakantam) | pvneelakantam@gmail.com
